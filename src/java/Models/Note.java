@@ -69,4 +69,10 @@ public class Note {
         }
     }
     
+    public void Smile(int howMuch){
+        for(int i = 0; i < howMuch; i++){
+            System.out.println("I am smiling :DD");
+        }
+    }
+    
 }
