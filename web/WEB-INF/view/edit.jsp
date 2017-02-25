@@ -23,5 +23,6 @@
 
     <c:if test="${param.warning}">
         <span>You must fill in both fields.</span>
+        <span>SPAN FULL OF NOPES</span>
     </c:if>
 </m:Base>
