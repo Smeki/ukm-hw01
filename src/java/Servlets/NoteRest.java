@@ -92,14 +92,8 @@ public class NoteRest extends HttpServlet {
     }// </editor-fold>
 
     
-
-        public void for7thCommit(){
-            //EMPTYY
-            //ALSO EMPTY
-        }
         
         public void for8thCommit(){
-            //EMPTYY
-            //ALSO EMPTY
+            System.out.println("It almost done!");
         }
 }

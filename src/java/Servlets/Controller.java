@@ -49,9 +49,6 @@ public class Controller extends HttpServlet {
             System.out.println("I am crgbvcbcxying :D");
         }
         
-        for(int i = 0; i < howMuch; i++){
-            System.out.println("I am crafbsgnsbvcxzvying :D");
-        }
         
         for(int i = 0; i < howMuch; i++){
             System.out.println("I am crfvsdfbfgbdfying :D");
