@@ -96,4 +96,9 @@ public class NoteRest extends HttpServlet {
         public void for6thCommit(){
             //EMPTYY
         }
+        
+        public void for7thCommit(){
+            //EMPTYY
+            //ALSO EMPTY
+        }
 }

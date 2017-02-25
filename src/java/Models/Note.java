@@ -76,8 +76,11 @@ public class Note {
     }
     
             
-        public void for6thCommit(){
+        public void for7thCommit(){
             //EMPTYY
+            for(int i = 0; i < 10; i++){
+            System.out.println("I am crying :D");
+        }
         }
     
 }

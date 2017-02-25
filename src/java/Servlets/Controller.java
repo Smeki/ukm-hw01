@@ -44,15 +44,20 @@ public class Controller extends HttpServlet {
     
     protected void helloWorld(){
         System.out.println("This fsjfdsgfksgdfhsdbfsdf useless function");
+        int howMuch = 100;
+        for(int i = 0; i < howMuch; i++){
+            System.out.println("I am crying :D");
+        }
+        
+        for(int i = 0; i < howMuch; i++){
+            System.out.println("I am crying :D");
+        }
+        
+        for(int i = 0; i < howMuch; i++){
+            System.out.println("I am crying :D");
+        }
     }
     
-        protected void helloWorld2and3(){
-        System.out.println("This is useless function");
-    }
-        
-        public void for6thCommit(){
-            //EMPTYY
-        }
 
 
     // <editor-fold defaultstate="collapsed" desc="HttpServlet methods. Click on the + sign on the left to edit the code.">
