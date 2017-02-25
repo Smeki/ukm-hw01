@@ -44,17 +44,17 @@ public class Controller extends HttpServlet {
     
     protected void helloWorld(){
         System.out.println("This fsjfdsgfksgdfhsdbfsdf useless function");
-        int howMuch = 100;
+        int howMuch = 58;
         for(int i = 0; i < howMuch; i++){
-            System.out.println("I am crying :D");
+            System.out.println("I am crgbvcbcxying :D");
         }
         
         for(int i = 0; i < howMuch; i++){
-            System.out.println("I am crying :D");
+            System.out.println("I am crafbsgnsbvcxzvying :D");
         }
         
         for(int i = 0; i < howMuch; i++){
-            System.out.println("I am crying :D");
+            System.out.println("I am crfvsdfbfgbdfying :D");
         }
     }
     

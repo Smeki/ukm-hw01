@@ -92,12 +92,13 @@ public class NoteRest extends HttpServlet {
     }// </editor-fold>
 
     
-            
-        public void for6thCommit(){
+
+        public void for7thCommit(){
             //EMPTYY
+            //ALSO EMPTY
         }
         
-        public void for7thCommit(){
+        public void for8thCommit(){
             //EMPTYY
             //ALSO EMPTY
         }
