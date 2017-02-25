@@ -80,6 +80,12 @@ public class Note {
             //EMPTYY
             for(int i = 0; i < 10; i++){
             System.out.println("I am crying :D");
+            System.out.println("FINAL MODIFICATION!!");
+            System.out.println("FINAL MODIFICATION!!");
+            System.out.println("FINAL MODIFICATION!!");
+            System.out.println("FINAL MODIFICATION!!");
+            System.out.println("FINAL MODIFICATION!!");
+            System.out.println("FINAL MODIFICATION!!");
         }
         }
     
