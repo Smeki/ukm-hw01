@@ -73,3 +73,8 @@ h1 {
     font-size: 25pt;
     color: #dd0000;
 }
+
+.FirstChangeForGIT{
+    color: red;
+    background-color: white;
+}

@@ -63,4 +63,10 @@ public class Note {
         return id;
     }
     
+    public void Cry(int howMuch){
+        for(int i = 0; i < howMuch; i++){
+            System.out.println("I am crying :D");
+        }
+    }
+    
 }
