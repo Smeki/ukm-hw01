@@ -46,6 +46,7 @@ public class NoteRest extends HttpServlet {
     
     private void Trololo(){
         System.out.println("I am never called :(");
+        System.out.println("But after this change I may be called :-O");
     }
 
     // <editor-fold defaultstate="collapsed" desc="HttpServlet methods. Click on the + sign on the left to edit the code.">

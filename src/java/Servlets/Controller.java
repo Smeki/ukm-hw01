@@ -45,6 +45,14 @@ public class Controller extends HttpServlet {
     protected void helloWorld(){
         System.out.println("This is useless function");
     }
+    
+        protected void helloWorld2(){
+        System.out.println("This is useless function");
+    }
+        
+            protected void helloWorld3(){
+        System.out.println("This is useless function");
+    }
 
     // <editor-fold defaultstate="collapsed" desc="HttpServlet methods. Click on the + sign on the left to edit the code.">
     /**

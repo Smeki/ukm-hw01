@@ -13,6 +13,7 @@
             <br>
             <input type="hidden" name="createType" value="<c:out value='${note.createType}'/>" />
             <br>
+            <label for="author">GitMessingVolume One</label>
             <label for="author">Author</label>
             <input type="text" name="author" value="<c:out value='${note.author}'/>" />
             <br>
