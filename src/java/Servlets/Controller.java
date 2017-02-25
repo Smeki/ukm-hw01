@@ -49,6 +49,10 @@ public class Controller extends HttpServlet {
         protected void helloWorld2and3(){
         System.out.println("This is useless function");
     }
+        
+        public void for6thCommit(){
+            //EMPTYY
+        }
 
 
     // <editor-fold defaultstate="collapsed" desc="HttpServlet methods. Click on the + sign on the left to edit the code.">

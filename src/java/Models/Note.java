@@ -75,12 +75,9 @@ public class Note {
         }
     }
     
-    /**
-     * 
-     * 
-     * 
-     * 
-     * ThIS is only modification in this file for this commit
-     */
+            
+        public void for6thCommit(){
+            //EMPTYY
+        }
     
 }

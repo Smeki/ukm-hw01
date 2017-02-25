@@ -91,4 +91,9 @@ public class NoteRest extends HttpServlet {
         return "Short description";
     }// </editor-fold>
 
+    
+            
+        public void for6thCommit(){
+            //EMPTYY
+        }
 }
