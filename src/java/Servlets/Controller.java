@@ -43,7 +43,7 @@ public class Controller extends HttpServlet {
     }
     
     protected void helloWorld(){
-        System.out.println("This is useless function");
+        System.out.println("This fsjfdsgfksgdfhsdbfsdf useless function");
     }
     
         protected void helloWorld2and3(){
