@@ -1,0 +1,75 @@
+body {
+    font-family: sans-serif;
+    background-color: rgba(250,250,250,1);
+    text-align: center;
+}
+textarea {
+    width: 300px;
+}
+
+.note_header{
+    background-color: rgba(200,50,50,0.8);
+    padding: 10px;
+    height: 3em;
+}
+.author{
+   font-size: 8pt; 
+   font-weight: bold;
+}
+
+.createType{
+    font-size: 8pt;
+    font-weight: bold;
+}
+
+#input_form, #edit_form{
+    background-color: rgba(240,240,240,0.5);
+    padding: 20px;
+    width: 20em;
+    margin: auto;
+    border: 1px solid #111;
+}
+
+.note {
+    background-color: rgba(200,50,50,0.1);
+    width: 40em;
+    margin: auto;
+    border: 1px solid #111;
+    margin-top: 10px;
+}
+.title {
+    font-weight: bold;
+    float: left;
+    color: #fff;
+    clear: both;
+}
+.buttons {
+    float: left;
+    /*clear: both;*/
+}
+
+.buttons input[type=submit]{
+    background-color: rgba(150,0,0,0.3);
+    border: 2px dashed rgb(150,0,0);
+    font-weight: bold;
+    font-size: 7pt;
+}
+
+.createType, .author {
+    float: right;
+}
+
+.buttons form {
+    display: inline;
+}
+.content {
+    clear: both;
+    text-align: left;
+    padding: 15px;
+    font-size: 11pt;
+}
+
+h1 {
+    font-size: 25pt;
+    color: #dd0000;
+}

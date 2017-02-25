@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/VEA2">
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver"
+    maxActive="15" maxIdle="3"
+    name="jdbc/mynotes" type="javax.sql.DataSource"
+    url="jdbc:mysql://localhost:3306/mynotes?useEncoding=true&amp;characterEncoding=UTF-8"
+    username="root" password="PASS8520word" validationQuery="/* ping */ SELECT 1"/>
+</Context>
