@@ -48,11 +48,7 @@ public class NoteRest extends HttpServlet {
         }
     }
     
-    private void Trololo(){
-        System.out.println("I am never called :(");
-        System.out.println("But after this change I may be called :-O");
-    }
-
+    //THERE WAS SOMETHING DELETED
         private void UFFF(){
         System.out.println("But after this change I may be called :-O");
     }

@@ -65,15 +65,11 @@ public class Note {
     
     public void Cry(int howMuch){
         for(int i = 0; i < howMuch; i++){
-            System.out.println("I am crying :D");
+            System.out.println("I wil never cry because i am in branche :D");
         }
     }
     
-    public void Smile(int howMuch){
-        for(int i = 0; i < howMuch; i++){
-            System.out.println("I am smiling :DD");
-        }
-    }
+
     
     /**
      * 

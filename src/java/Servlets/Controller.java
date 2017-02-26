@@ -42,6 +42,20 @@ public class Controller extends HttpServlet {
      */
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
+        int x = 0;
+        boolean still = true;
+        while(still){
+            x++;
+            x = x*x;
+            x = x % 5;
+            x = x/x + x;
+            System.out.println(x);
+            
+            if(x % 2 == 0){
+                still = false;
+            }
+        }
+        
         
     }
     
