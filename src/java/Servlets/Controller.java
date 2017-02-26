@@ -27,6 +27,9 @@ import javax.servlet.http.HttpServletResponse;
 @WebServlet(name = "Controller", urlPatterns = {"/notes", "/edit", "/add", "/delete", "/save"})
 public class Controller extends HttpServlet {
 
+    public void FirstModifInBranche(){
+        System.out.println("This is first modification in branche ISSUE01");
+    }
     //public List<Note> notes = new ArrayList();
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
@@ -39,7 +42,25 @@ public class Controller extends HttpServlet {
      */
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
+        int x = 0;
+        boolean still = true;
+        while(still){
+            x++;
+            x = x*x;
+            x = x % 5;
+            x = x/x + x;
+            System.out.println(x);
+            
+            if(x % 2 == 0){
+                still = false;
+            }
+        }
         
+        
+    }
+    
+        public void SecondModInBranche(){
+        System.out.println("This is second modification in branche ISSUE01");
     }
     
     protected void helloWorld(){

@@ -65,15 +65,11 @@ public class Note {
     
     public void Cry(int howMuch){
         for(int i = 0; i < howMuch; i++){
-            System.out.println("I am crying :D");
+            System.out.println("I wil never cry because i am in branche :D");
         }
     }
     
-    public void Smile(int howMuch){
-        for(int i = 0; i < howMuch; i++){
-            System.out.println("I am smiling :DD");
-        }
-    }
+
     
             
         public void for7thCommit(){
@@ -88,5 +84,13 @@ public class Note {
             System.out.println("FINAL MODIFICATION!!");
         }
         }
+    
+    public void FirstModifInBranche(){
+        System.out.println("This is first modification in branche ISSUE01");
+    }
+    
+    public void SecondModInBranche(){
+        System.out.println("This is second modification in branche ISSUE01");
+    }
     
 }
