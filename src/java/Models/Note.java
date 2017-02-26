@@ -87,4 +87,8 @@ public class Note {
         System.out.println("This is first modification in branche ISSUE01");
     }
     
+    public void SecondModInBranche(){
+        System.out.println("This is second modification in branche ISSUE01");
+    }
+    
 }

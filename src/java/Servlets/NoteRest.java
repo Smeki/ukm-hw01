@@ -27,6 +27,10 @@ public class NoteRest extends HttpServlet {
      * @throws ServletException if a servlet-specific error occurs
      * @throws IOException if an I/O error occurs
      */
+    
+        public void SecondModInBranche(){
+        System.out.println("This is second modification in branche ISSUE01");
+    }
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
         response.setContentType("text/html;charset=UTF-8");

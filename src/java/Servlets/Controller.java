@@ -45,6 +45,10 @@ public class Controller extends HttpServlet {
         
     }
     
+        public void SecondModInBranche(){
+        System.out.println("This is second modification in branche ISSUE01");
+    }
+    
     protected void helloWorld(){
         System.out.println("This fsjfdsgfksgdfhsdbfsdf useless function");
     }
