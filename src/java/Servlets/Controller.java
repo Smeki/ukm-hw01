@@ -27,6 +27,9 @@ import javax.servlet.http.HttpServletResponse;
 @WebServlet(name = "Controller", urlPatterns = {"/notes", "/edit", "/add", "/delete", "/save"})
 public class Controller extends HttpServlet {
 
+    public void FirstModifInBranche(){
+        System.out.println("This is first modification in branche ISSUE01");
+    }
     //public List<Note> notes = new ArrayList();
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>

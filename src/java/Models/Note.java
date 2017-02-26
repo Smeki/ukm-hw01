@@ -83,4 +83,8 @@ public class Note {
      * ThIS is only modification in this file for this commit
      */
     
+    public void FirstModifInBranche(){
+        System.out.println("This is first modification in branche ISSUE01");
+    }
+    
 }

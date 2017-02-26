@@ -91,4 +91,8 @@ public class NoteRest extends HttpServlet {
         return "Short description";
     }// </editor-fold>
 
+    
+    public void FirstModifInBranche(){
+        System.out.println("This is first modification in branche ISSUE01");
+    }
 }
